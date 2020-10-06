@@ -13,13 +13,13 @@ body {
 }
 
 a {
-  text-decoration: none;
-  color: #333F48;
+  text-decoration: underline;
+  color: #ae7f3d;
 }
 
 a:hover {
-  text-decoration: underline;
-  color: #333F48;
+  text-decoration: none;
+  color: #ae7f3d;
 }
 
 main {
